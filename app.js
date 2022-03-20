@@ -1,74 +1,33 @@
-const express = require("express");
-const User = require("./backend/models/User.js");
-const cors = require("cors");
-var bcrypt = require("bcrypt");
-const connected = require("../root/backend/db/connection.js");
-console.log(connected);
-connected.then(() => {
-  console.log("connected!");
-  const server = app.listen(8080, () => console.log("listening"));
-});
-require("dotenv").config();
+const express = require('express');
+require('dotenv').config();
 const app = express();
+const cors = require('cors');
+const connected = require('./db/connection.js');
+
 app.use(cors());
+app.options('*', cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.get("/", (req, res) => {
-  res.send(" Connected For life");
+const authRouter = require('./routes/auth.js');
+const beerRouter = require('./routes/beer.js');
+
+app.use('/api/v1/auth', authRouter);
+app.use('/api/v1/beers', beerRouter);
+
+// catch all errors
+app.use((err, req, res, next) => {
+  res.status(500).json({ error: err });
 });
 
-const router = require("../root/backend/routes/index.js");
-app.use("/api/v1", router);
-// app.post("/signUp/",(req,res)=>{
+const connectMongoAndStartServer = async () => {
+  const port = process.env.PORT || 8080;
+  try {
+    await connected(process.env.MONGO_LINK);
+    app.listen(port, () => console.log(`Listening to port: ${port}`));
+  } catch (err) {
+    console.log(err);
+  }
+};
 
-//         let newUser=new User(
-//             {
-//             name:req.body.name,
-//             email:req.body.email,
-//             mobile:req.body.mobile,
-//              dob:req.body.DOB,
-//               password: req.body.password,
-//              confirmpassword:req.body.confirmpassword,
-//             // // password: bcrypt.hashSync(req.body.password, 8),
-//             // // ConfirmPassword:bcrypt.hashSync(req.body.password, 8)
-//         //    }
-
-//             });
-//            newUser.save().then(result=>{
-//                res.json({
-//                    data:newUser,
-//                    url:`/signup/${newUser._id}`,
-//                    message:"User was created successfully"
-
-//                })
-//             }).catch(error=>{res.status(500).send(error)});
-
-// })
-
-// app.post("/signin",(req,res)=>{
-// User.findOne({
-//           name: req.body.name,
-//         })
-
-//         .then((user)=>
-//             {
-//                 if(!user)
-//                 {
-//                     return res.status(401).json({
-//                         error: new Error('User not found!')
-//             })
-//         }
-//     if(req.body.password==user.password)
-//     {
-//             return res.status(200).json({
-//               data:user,
-//               url:`/signin/${user._id}`,
-//               message:"User was authenticataed successfully"
-
-//             });
-//           }
-
-//     }).catch((error)=>{res.status(500).json({error:error})});
-
-// });
+connectMongoAndStartServer();
