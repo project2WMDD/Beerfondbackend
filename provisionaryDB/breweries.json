@@ -1,0 +1,495 @@
+{
+  "0": {
+    "brewer_ID": "BRW-000",
+    "brewer_name": "33 Acres Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/33-acres-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/33-acres-brewing-company.png",
+    "brewer_address": "15 W 8th AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://33acresbrewing.com",
+      "+1 (604) 620-4589",
+      "beer@33acresbrewing.com"
+    ]
+  },
+  "1": {
+    "brewer_ID": "BRW-001",
+    "brewer_name": "Altitude Beer Co.",
+    "brewer_link": "https://justbeerapp.com/brand/altitude-beer-co-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1338 Franklin StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["https://altitudebeer.com/", "info@altitudebeer.com"]
+  },
+  "2": {
+    "brewer_ID": "BRW-002",
+    "brewer_name": "Andina Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/andina-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/andina-brewing-company.png",
+    "brewer_address": "1507 Powell StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://andinabrewing.ca/",
+      "+1 (604) 253-2400",
+      "info@andinabrewing.ca"
+    ]
+  },
+  "3": {
+    "brewer_ID": "BRW-003",
+    "brewer_name": "Balderdash Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/balderdash-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1420 Georgia StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://www.balderdashbeer.com",
+      "info@balderdashbeer.com"
+    ]
+  },
+  "4": {
+    "brewer_ID": "BRW-004",
+    "brewer_name": "Bomber Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/bomber-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/bomber-brewery.png",
+    "brewer_address": "1488 Adanac StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.bomberbrewing.com/",
+      "+1 (604) 428-7457",
+      "info@bomberbrewing.com"
+    ]
+  },
+  "5": {
+    "brewer_ID": "BRW-005",
+    "brewer_name": "Boombox Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/boombox-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/boombox-brewing-company.png",
+    "brewer_address": "1950 Triumph StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.boomboxbrewing.com/",
+      "info@boomboxbrewing.com"
+    ]
+  },
+  "6": {
+    "brewer_ID": "BRW-006",
+    "brewer_name": "Brassneck Brewery",
+    "brewer_link": "https://justbeerapp.com/brand/brassneck-brewery-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/brassneck-brewery.png",
+    "brewer_address": "2148 Main StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://brassneck.ca/",
+      "+1 (604) 259-7686",
+      "u0003info@brassneck.ca"
+    ]
+  },
+  "7": {
+    "brewer_ID": "BRW-007",
+    "brewer_name": "BREWHALL",
+    "brewer_link": "https://justbeerapp.com/brand/brewhall-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "97 E 2nd AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://brewhall.com/", "+1 (604) 709-8623"]
+  },
+  "8": {
+    "brewer_ID": "BRW-008",
+    "brewer_name": "Callister Brewing Co.",
+    "brewer_link": "https://justbeerapp.com/brand/callister-brewing-co-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/callister-brewing-co.png",
+    "brewer_address": "1338 Franklin StVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.callisterbrewing.com/",
+      "+1 (604) 569-2739",
+      "info@callisterbrewing.com"
+    ]
+  },
+  "9": {
+    "brewer_ID": "BRW-009",
+    "brewer_name": "Coal Harbour Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/coal-harbour-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/coal-harbour-brewing-company.png",
+    "brewer_address": "1967 Triumph StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://coalharbourbrewing.com/", "+1 (604) 215-7471"]
+  },
+  "10": {
+    "brewer_ID": "BRW-010",
+    "brewer_name": "Container Brewing Co.",
+    "brewer_link": "https://justbeerapp.com/brand/container-brewing-ltd-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1216 Franklin StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["https://www.drinkcontainer.beer/", "+1 (778) 404-0657"]
+  },
+  "11": {
+    "brewer_ID": "BRW-011",
+    "brewer_name": "Doanu2019s Craft Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/doans-craft-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/doans-craft-brewing-company.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": []
+  },
+  "12": {
+    "brewer_ID": "BRW-012",
+    "brewer_name": "Dockside Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/dockside-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/dockside-brewing.png",
+    "brewer_address": "1253 Johnston StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://docksidevancouver.com/about/",
+      "+1-604-685-7070",
+      "info@docksidebrewing.com"
+    ]
+  },
+  "13": {
+    "brewer_ID": "BRW-013",
+    "brewer_name": "Dogwood Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/dogwood-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/dogwood-brewing.png",
+    "brewer_address": "8284 Sherbrooke StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.dogwoodbrew.com/",
+      "+1 (604) 325-3693",
+      "dogwood@dogwoodbrew.com"
+    ]
+  },
+  "14": {
+    "brewer_ID": "BRW-014",
+    "brewer_name": "East Van Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/east-van-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1675 Venables StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://www.eastvanbrewing.com/", "+1 (604) 558-3822"]
+  },
+  "15": {
+    "brewer_ID": "BRW-015",
+    "brewer_name": "Electric Bicycle Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/electric-bicycle-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/electric-bicycle-brewing.png",
+    "brewer_address": "20 E 4th AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.electricbicyclebrewing.com",
+      "+1 (604) 709-9939",
+      "info@ebbeer.com"
+    ]
+  },
+  "16": {
+    "brewer_ID": "BRW-016",
+    "brewer_name": "Faculty Brewing Co.",
+    "brewer_link": "https://justbeerapp.com/brand/faculty-brewing-co-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/faculty-brewing-co.png",
+    "brewer_address": "1830 Ontario StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://www.facultybrewing.com/", "+1 (778) 819-6794"]
+  },
+  "17": {
+    "brewer_ID": "BRW-018",
+    "brewer_name": "Granville Island Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/granville-island-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/granville-island-brewing.png",
+    "brewer_address": "1441 Cartwright StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://gib.ca/", "+1 (604) 687-2739", "info@gib.ca"]
+  },
+  "18": {
+    "brewer_ID": "BRW-020",
+    "brewer_name": "Hell's Gate Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/hells-gate-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/hells-gate-brewing.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": []
+  },
+  "19": {
+    "brewer_ID": "BRW-021",
+    "brewer_name": "Hey Y'all Southern Style Hard Iced Tea",
+    "brewer_link": "https://justbeerapp.com/brand/hey-yall-southern-tea-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/hey-y-all-southern-tea.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": ["http://heyyallsoutherntea.com/"]
+  },
+  "20": {
+    "brewer_ID": "BRW-022",
+    "brewer_name": "Lightheart Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/lightheart-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1338 Franklin St.Vancouver, British Columbia, Canada",
+    "brewer_contact": ["http://lightheartbrewing.com/"]
+  },
+  "21": {
+    "brewer_ID": "BRW-023",
+    "brewer_name": "Lonetree Cider Co.",
+    "brewer_link": "https://justbeerapp.com/brand/lonetree-cider-co-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/lonetree-cider-company.png",
+    "brewer_address": "2065 W 14th AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.lonetreecider.com/",
+      "info@lonetreecider.com"
+    ]
+  },
+  "22": {
+    "brewer_ID": "BRW-024",
+    "brewer_name": "Luppolo Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/luppolo-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/luppolo-brewing.png",
+    "brewer_address": "1123 Venables StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://luppolobrewing.ca/",
+      "+1 (604) 255-4997",
+      "info@luppolobrewing.ca"
+    ]
+  },
+  "23": {
+    "brewer_ID": "BRW-025",
+    "brewer_name": "Main Street Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/main-street-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/main-street-brewing.png",
+    "brewer_address": "261 East 7th Avenue,Vancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://mainstreetbeer.ca/",
+      "+1 (604) 336-7711",
+      "info@mainstreetbeer.ca"
+    ]
+  },
+  "24": {
+    "brewer_ID": "BRW-026",
+    "brewer_name": "Off The Rail Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/off-rails-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/off-the-rail-brewing-company.png",
+    "brewer_address": "1351 Adanac StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://offtherailbrewing.com/", "+1 (604) 563-5767"]
+  },
+  "25": {
+    "brewer_ID": "BRW-027",
+    "brewer_name": "Paper Brewing Co.",
+    "brewer_link": "https://justbeerapp.com/brand/paper-brewing-co-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "55 Dunlevy AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://www.paperbrewing.ca",
+      "+1 (403) 828-5929",
+      "hello@paperbrewing.ca"
+    ]
+  },
+  "26": {
+    "brewer_ID": "BRW-028",
+    "brewer_name": "Parallel 49 Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/parallel-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/parallel-49.png",
+    "brewer_address": "1950 Triumph StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://parallel49brewing.com",
+      "+1 (604) 558-2739",
+      "info@parallel49brewing.com"
+    ]
+  },
+  "27": {
+    "brewer_ID": "BRW-029",
+    "brewer_name": "Phantom Beer",
+    "brewer_link": "https://justbeerapp.com/brand/phantom-beer-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1575 Vernon DriveVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://phantom.beer/",
+      "+1 (604) 322-8679",
+      "info@craftcollective.beer"
+    ]
+  },
+  "28": {
+    "brewer_ID": "BRW-030",
+    "brewer_name": "Postmark Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/postmark-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/postmark.png",
+    "brewer_address": "55 Dunlevy AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://postmarkbrewing.com", "+1 (604) 699-1988"]
+  },
+  "29": {
+    "brewer_ID": "BRW-031",
+    "brewer_name": "Powell Brewery",
+    "brewer_link": "https://justbeerapp.com/brand/powell-street-craft-brewery-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/powell-street-craft-brewery.png",
+    "brewer_address": "1357 Powell StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.powellbeer.com",
+      "+1 (604) 558-2537",
+      "info@powellbeer.com"
+    ]
+  },
+  "30": {
+    "brewer_ID": "BRW-032",
+    "brewer_name": "R&B Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/rb-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/r&b-brewing.png",
+    "brewer_address": "54 E 4th AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://www.randbbrewing.com", "+1 (778) 783-1194"]
+  },
+  "31": {
+    "brewer_ID": "BRW-033",
+    "brewer_name": "Real Cask Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/real-cask-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/real-cask-brewing.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": []
+  },
+  "32": {
+    "brewer_ID": "BRW-034",
+    "brewer_name": "Red Truck Beer Company",
+    "brewer_link": "https://justbeerapp.com/brand/red-truck-beer-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/red-truck-beer-company.png",
+    "brewer_address": "295 E 1st AvenueVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://www.redtruckbeer.com/", "+1 (604) 682-4733"]
+  },
+  "33": {
+    "brewer_ID": "BRW-035",
+    "brewer_name": "Slow Hand Beer Company",
+    "brewer_link": "https://justbeerapp.com/brand/slow-hand-beer-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1830 Powell StreetVancouver, British Columbia, Canada",
+    "brewer_contact": ["https://www.slowhandbeer.com/", "+1 (778) 819-2252"]
+  },
+  "34": {
+    "brewer_ID": "BRW-036",
+    "brewer_name": "Spectrum Beer Company",
+    "brewer_link": "https://justbeerapp.com/brand/spectrum-beer-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1575 Vernon DriveVancouver, British Columbia, Canada",
+    "brewer_contact": ["https://spectrumbeer.com", "info@spectrumbeer.com"]
+  },
+  "35": {
+    "brewer_ID": "BRW-037",
+    "brewer_name": "Stanley Park Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/stanley-park-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/stanley-park-brewing.png",
+    "brewer_address": "8901 Stanley Park DriveVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://www.stanleyparkbrewing.com/",
+      "+1 (604) 642-6722",
+      "info@stanleyparkbrewing.com"
+    ]
+  },
+  "36": {
+    "brewer_ID": "BRW-038",
+    "brewer_name": "Steel Toad Brewpub",
+    "brewer_link": "https://justbeerapp.com/brand/steel-toad-brewpub-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/steel-toad-brewpub.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": []
+  },
+  "37": {
+    "brewer_ID": "BRW-039",
+    "brewer_name": "Storm Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/storm-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/storm-brewing.png",
+    "brewer_address": "310 Commercial DriveVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://www.stormbrewing.org", "+1 (604) 255-9119"]
+  },
+  "38": {
+    "brewer_ID": "BRW-040",
+    "brewer_name": "Strange Fellows Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/strange-fellows-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/strange-fellows-brewing.png",
+    "brewer_address": "1345 Clark DriveVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://strangefellowsbrewing.com/",
+      "+1 (604) 215-0092"
+    ]
+  },
+  "39": {
+    "brewer_ID": "BRW-041",
+    "brewer_name": "Strathcona Beer Company",
+    "brewer_link": "https://justbeerapp.com/brand/strathcona-beer-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/strathcona-beer-company.png",
+    "brewer_address": "895 East Hastings StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.strathconabeer.com/",
+      "+1 (778) 379-9050",
+      "info@strathconabeer.com"
+    ]
+  },
+  "40": {
+    "brewer_ID": "BRW-042",
+    "brewer_name": "Sundown Beer Co.",
+    "brewer_link": "https://justbeerapp.com/brand/sundown-beer-co-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "1216 Franklin StreetVancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://www.sundown.beer",
+      "+1 (778) 554-2820u202c",
+      "info@sundownbrewing.com"
+    ]
+  },
+  "41": {
+    "brewer_ID": "BRW-043",
+    "brewer_name": "Superflux Beer Company",
+    "brewer_link": "https://justbeerapp.com/brand/superflux-beer-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "",
+    "brewer_address": "505 Clark DriveVancouver, British Columbia, Canada",
+    "brewer_contact": ["https://www.superfluxbeer.com/"]
+  },
+  "42": {
+    "brewer_ID": "BRW-044",
+    "brewer_name": "Two Wolves Brewing",
+    "brewer_link": "https://justbeerapp.com/brand/two-wolves-brewing-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/two-wolves-brewing.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "https://www.twowolvesbrewing.ca",
+      "+1 (250) 607-1363",
+      "info@twowolvesbrewing.ca"
+    ]
+  },
+  "43": {
+    "brewer_ID": "BRW-045",
+    "brewer_name": "Yaletown Brewing Company",
+    "brewer_link": "https://justbeerapp.com/brand/yaletown-brewing-company-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/yaletown-brewing-company.png",
+    "brewer_address": "1111 Mainland StVancouver, British Columbia, Canada",
+    "brewer_contact": ["http://www.mjg.ca/yaletown/", "+1 (604) 681-2739"]
+  },
+  "44": {
+    "brewer_ID": "BRW-046",
+    "brewer_name": "Yanjing Beer",
+    "brewer_link": "https://justbeerapp.com/brand/yanjing-beer-1",
+    "brewer_location": "Vancouver, British Columbia, Canada",
+    "brewer_logo_url": "https://cdn.justwineapp.com/assets/producer/logo/yanjing-beer.png",
+    "brewer_address": "Vancouver, British Columbia, Canada",
+    "brewer_contact": [
+      "http://www.yanjingbeer.ca/home.html",
+      "+1 (778) 889-6827",
+      "shu@yanjingcanada.com"
+    ]
+  }
+}

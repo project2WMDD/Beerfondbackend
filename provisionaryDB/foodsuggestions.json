@@ -1,0 +1,181 @@
+{
+  "0": {
+    "beer_type": "Blond Ale",
+    "suggested_foods": [
+      "chicken",
+      "salads",
+      "salmon",
+      "bratwurst",
+      "Monterey jack cheese"
+    ]
+  },
+  "1": {
+    "beer_type": "British-Style Bitter",
+    "suggested_foods": [
+      "roast chicken",
+      "pork",
+      "fish & chips",
+      "Oatmeal-raisin-walnut cookies",
+      "Lancashire or Leicester Cheese"
+    ]
+  },
+  "2": {
+    "beer_type": "Pale Ale",
+    "suggested_foods": [
+      "meat pie",
+      "cheddar or Derby cheese with sage ",
+      "great with a burger",
+      "Pumpkin flan",
+      "bananas Foster"
+    ]
+  },
+  "3": {
+    "beer_type": " India Pale Ale",
+    "suggested_foods": [
+      "classic with curry",
+      "Gorgonzola or Cambozola cheese",
+      "Caramel apple tart",
+      "ginger spice cake",
+      "persimmon rice pudding"
+    ]
+  },
+  "4": {
+    "beer_type": "Double/Imperial IPA",
+    "suggested_foods": [
+      "Smoked beef brisket",
+      "grilled lamb",
+      "Southern chicken-fried steak",
+      "caramel cheesecake",
+      "carrot cake"
+    ]
+  },
+
+  "5": {
+    "beer_type": "Amber/Red Ale",
+    "suggested_foods": [
+      " chicken",
+      "seafood",
+      "burgers",
+      "Southern chicken-fried steak",
+      "caramel cheesecake",
+      "carrot cake",
+      "tangy cheese",
+      "banana pound cake"
+    ]
+  },
+  "6": {
+    "beer_type": "Brown Ale, Altbier",
+    "suggested_foods": [
+      "roast pork",
+      "smoked sausage",
+      "grilled salmon",
+      "Almond or maple-walnut cake",
+      "cashew brittle"
+    ]
+  },
+
+  "7": {
+    "beer_type": "Abbey Dubbel",
+    "suggested_foods": [
+      "Barbecue",
+      "meat stews",
+      "smoked rib roast",
+      "Heavenly with milk chocolate",
+      "butter truffles"
+    ]
+  },
+  "8": {
+    "beer_type": "Old or Strong Ale",
+    "suggested_foods": [
+      "roast beef lamb or game grilled or roasted",
+      "Double Gloucester cheese",
+      "Spiced plum-walnut tart",
+      "classic canolli",
+      "toffee apple crisp"
+    ]
+  },
+  "9": {
+    "beer_type": "Barley Wine",
+    "suggested_foods": [
+      "Stilton and walnuts",
+      "chocolate hazelnut torte",
+      "toffee caramel cheesecake",
+      "classic canolli",
+      "toffee apple crisp"
+    ]
+  },
+
+  "10": {
+    "beer_type": "Porter",
+    "suggested_foods": [
+      "barbecue",
+      "sausages",
+      "roasted meat",
+      "blackened fish",
+      "Chocolate peanut butter cookies"
+    ]
+  },
+  "11": {
+    "beer_type": "Sweet or Oatmeal Stout",
+    "suggested_foods": [
+      "barbecued beef",
+      "Oaxacan mole",
+      "hearty Szechuan dishes",
+      "Chocolate espresso cake",
+      " cream puffs"
+    ]
+  },
+  "12": {
+    "beer_type": "Imperial Stout",
+    "suggested_foods": [
+      "smoked goose",
+      "Gouda",
+      "Parmesan or cheddar",
+      "Dark chocolate truffles",
+      "chocolate raspberry mousse cake"
+    ]
+  },
+  "13": {
+    "beer_type": "Hefeweizen",
+    "suggested_foods": [
+      "salads",
+      "seafood",
+      "sushi",
+      "classic with weisswurst",
+      "Strawberry shortcake"
+    ]
+  },
+  "14": {
+    "beer_type": "American Wheat Ale",
+    "suggested_foods": [
+      "salads",
+      "sushi",
+      "vegetable dishes",
+      "Buffalo mozzarella",
+      "Wisconsin brick"
+    ]
+  },
+
+  "15": {
+    "beer_type": "Witbier",
+    "suggested_foods": [
+      "steamed mussels",
+      "Mascarpone",
+      "herb cheese spread on crackers",
+      "Banana orange crèpes",
+      "panna cotta with lemon",
+      "blood orange sorbet"
+    ]
+  },
+
+  "16": {
+    "beer_type": "Classic Pilsener",
+    "suggested_foods": [
+      "chicken salads",
+      "salmon",
+      "bratwurst",
+      "Vermont cheddar",
+      "fresh berries with sabayon"
+    ]
+  }
+}
