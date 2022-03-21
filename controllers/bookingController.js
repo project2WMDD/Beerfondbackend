@@ -1,23 +1,31 @@
-const Bookings = require("../models/booking.js");
+const Booking = require('../models/Booking.js');
 
-const postbooking = (req, res) => {
-  const newbook = new Bookings({
-    people: req.body.people,
-    date: req.body.date,
-    time: req.body.time,
-  });
-  newbook
-    .save()
-    .then((result) => {
-      res.json({
-        data: newbook,
-        url: `/booking/${newbook._id}`,
-        message: "Book was created successfully",
-      });
-    })
-    .catch((error) => {
-      res.status(500).send(error);
-    });
+const createBooking = async (req, res) => {
+  try {
+    const booking = await Booking.create(req.body);
+    res.status(201).json({ booking });
+  } catch (error) {
+    res.status(500).json({ message: 'Error creating booking.' });
+    console.log(error);
+  }
 };
 
-module.exports = postbooking;
+const getBooking = async (req, res) => {
+  try {
+    const booking = await Booking.findById(req.params.id);
+    res.status(200).json({
+      beer,
+    });
+  } catch (err) {}
+};
+
+const getAllBookings = async (req, res) => {
+  const queryObj = { ...req.query };
+
+  try {
+    const booking = await Booking.find(queryObj);
+    res.status(200).json({ booking });
+  } catch (error) {}
+};
+
+module.exports = { createBooking, getBooking, getAllBookings };

@@ -12,10 +12,12 @@ app.use(express.urlencoded({ extended: true }));
 const authRouter = require('./routes/auth.js');
 const beerRouter = require('./routes/beer.js');
 const breweryRouter = require('./routes/brewery.js');
+const bookingRouter = require('./routes/booking.js');
 
 app.use('/api/v1/auth', authRouter);
 app.use('/api/v1/beers', beerRouter);
 app.use('/api/v1/breweries', breweryRouter);
+app.use('/api/v1/bookings', bookingRouter);
 
 // catch all errors
 app.use((err, req, res, next) => {

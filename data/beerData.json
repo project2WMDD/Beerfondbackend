@@ -1,0 +1,15 @@
+[
+  {
+    "beer_ID": "BRW-000",
+    "beer_name": "33 Acres of Cider",
+    "beer_link": "https://justbeerapp.com/beer/33-acres-cid3r-1",
+    "beer_attr": "6.9% ABV",
+    "beer_pic": "https://cdn.justwineapp.com/assets/beer/bottle/33-acres-brewing-company-33-acres-cid3r_1492101169.png",
+    "beer_desc": "This beer is not for children",
+    "beer_brewer_": "Hello_",
+    "beer_brewer": "Hello",
+    "alcohol_percent": "Light-1",
+    "suggestion_food": ["chicken, prawn"],
+    "flavour": ["sweet"]
+  }
+]

@@ -1,0 +1,17 @@
+[{
+  "brewer_ID": "BRW-000",
+  "brewer_name": "33 Acres Brewing Company",
+  "brewer_link": "https://justbeerapp.com/brand/33-acres-brewing-company-1",
+  "brewer_location": "Vancouver, British Columbia, Canada",
+  "brewer_logo_url":"https://cdn.justwineapp.com/assets/producer/logo/33-acres-brewing-company.png",
+  "beer_address": "https://cdn.justwineapp.com/assets/producer/logo/33-acres-brewing-company.png",
+  "beer_contact": [
+    "http://33acresbrewing.com",
+    "+1 (604) 620-4589",
+    "beer@33acresbrewing.com"
+  ],
+  "beer_menu": [
+    "622a46ed118c96c628930408",
+    "622a46ed118c96c628930407"
+  ]
+}]
