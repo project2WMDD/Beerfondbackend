@@ -1,6 +1,6 @@
-const { default: mongoose } = require('mongoose');
-const moongoose = require('mongoose');
-const Schema = moongoose.Schema;
+
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
 
 // edit later
 const BookingSchema = new Schema({
@@ -18,5 +18,5 @@ const BookingSchema = new Schema({
   }
 });
 
-const Booking = moongoose.model('Booking', BookingSchema);
+const Booking = mongoose.model('Booking', BookingSchema);
 module.exports = Booking;
